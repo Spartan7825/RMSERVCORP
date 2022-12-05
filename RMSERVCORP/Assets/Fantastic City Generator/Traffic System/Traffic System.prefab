@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1221417207324282}
+  m_IsPrefabParent: 1
+--- !u!1 &1221417207324282
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4293466709705848}
+  - component: {fileID: 114092109306769816}
+  m_Layer: 0
+  m_Name: Traffic System
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4293466709705848
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1221417207324282}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114092109306769816
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1221417207324282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d912fe0986afb740af2d12075360927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IaCars:
+  - {fileID: 1252191379147684, guid: ca98eeab7296b3a409f6ca014b54681f, type: 2}
+  - {fileID: 1483989106123686, guid: 4d86b435ce3fe5f48b671b54d129877a, type: 2}
+  - {fileID: 1226217877272418, guid: 8143f35bdd6271c4f9e3803d4ea5561b, type: 2}
+  - {fileID: 1234171051286666, guid: 0d161b7a88eb2374c802b511e355361a, type: 2}
+  - {fileID: 1374020581361208, guid: 6d5afd83054641f4bb42eb72332c7de0, type: 2}
+  - {fileID: 1109695712951748, guid: 57520536b8a7c7b4697c4580b455e813, type: 2}
+  - {fileID: 1751085901357432, guid: 6df878ed13a6fc643a5fcbed943dc041, type: 2}
+  - {fileID: 1254353771872764, guid: ab71d1e56e4028c44a85d45277bff181, type: 2}
+  - {fileID: 1060661301025868, guid: 7cede1bfd29692c4f98daff0d7530360, type: 2}
+  - {fileID: 1614086988359648, guid: 87b3f71b27b15eb49a45f002dda71959, type: 2}
+  - {fileID: 1117104693563266, guid: 31f8dd5dd6010d347a33db9ba8aa02ed, type: 2}
+  - {fileID: 1000074364390674, guid: 0e84940a752defa4581dd6982ec33b8e, type: 2}
+  intenseTraffic: 1

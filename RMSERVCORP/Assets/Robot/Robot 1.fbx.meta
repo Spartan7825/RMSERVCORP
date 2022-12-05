@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: c01be550e7b916d4a858f0e849e507b2
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackScrews
+    second: {fileID: 2100000, guid: 90ca9b12879ed8a4b8dc8861a11f01e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlowyEyes
+    second: {fileID: 2100000, guid: 11eb5d0dc722ef24ab7b4225d20b9a11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PowerCog
+    second: {fileID: 2100000, guid: 848cbd6571085f349bc2e500d5f12020, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 3cb8dacaafdf33f41beff2a7682e45eb, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Robot 1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Camera.001
+      parentName: Robot 1(Clone)
+      position: {x: -7.3588915, y: -0.9837408, z: 5.94205}
+      rotation: {x: 0.33687162, y: 0.78048265, z: 0.48353606, w: 0.20870364}
+      scale: {x: 99.99999, y: 99.99999, z: 99.99999}
+    - name: Humanbot_A_Geom
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.001
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.002
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.003
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.004
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.005
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.006
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.007
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.008
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.009
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.010
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.011
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.012
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.013
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.014
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.015
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.016
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.017
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.018
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.019
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.020
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.021
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.022
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.023
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.024
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.025
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.026
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.027
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    - name: Humanbot_A_Geom.028
+      parentName: Robot 1(Clone)
+      position: {x: -0.00000023841858, y: 0.035744995, z: 0.32886863}
+      rotation: {x: 0.00000008146035, y: 0, z: -0, w: 1}
+      scale: {x: 7.174754, y: 7.174754, z: 7.174754}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: da00511eaa663044eb99114affab92dc
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Collider-Road
+    100002: Colliders
+    100004: Double-Block-03
+    100006: //RootNode
+    100008: Road-Mark
+    100010: Road-Mark-Rev
+    100012: Water
+    100014: Double-Block-09
+    100016: Double-Block-09-Sidewalk
+    400000: Collider-Road
+    400002: Colliders
+    400004: Double-Block-03
+    400006: //RootNode
+    400008: Road-Mark
+    400010: Road-Mark-Rev
+    400012: Water
+    400014: Double-Block-09
+    400016: Double-Block-09-Sidewalk
+    2100000: Roads
+    2100002: Grass-01
+    2100004: Atlas1
+    2100006: Grade2
+    2300000: Collider-Road
+    2300002: Colliders
+    2300004: Double-Block-03
+    2300006: Road-Mark
+    2300008: Road-Mark-Rev
+    2300010: Water
+    2300012: Double-Block-09
+    2300014: Double-Block-09-Sidewalk
+    3300000: Collider-Road
+    3300002: Colliders
+    3300004: Double-Block-03
+    3300006: Road-Mark
+    3300008: Road-Mark-Rev
+    3300010: Water
+    3300012: Double-Block-09
+    3300014: Double-Block-09-Sidewalk
+    4300000: Double-Block-03
+    4300002: Road-Mark
+    4300004: Collider-Road
+    4300006: Colliders
+    4300008: Road-Mark-Rev
+    4300010: Water
+    4300012: Double-Block-09
+    4300014: Double-Block-09-Sidewalk
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Atlas1
+    second: {fileID: 2100000, guid: 59aa769bd1562c543b982eedfb107b96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Atlas1.001
+    second: {fileID: 2100000, guid: 59aa769bd1562c543b982eedfb107b96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grade2
+    second: {fileID: 2100000, guid: 664df3f17139ec24fb30a2a71988616c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass-01
+    second: {fileID: 2100000, guid: f9a48a42036ef934da02e5fe6da4f4c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roads
+    second: {fileID: 2100000, guid: 9936a8d66f306b7488a2e8cf3d4088a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roads.002
+    second: {fileID: 2100000, guid: 9936a8d66f306b7488a2e8cf3d4088a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water
+    second: {fileID: 2100000, guid: f2476c457a386ae40a7443c59cafa98f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
